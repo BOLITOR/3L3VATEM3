@@ -22,6 +22,9 @@
 
 >Para poder hacer uso de este script, asegurate de utilizar el mismo formato de respuesta
 >que el que se facilita con cada pregunta, haciendo uso de la mayuscula correspondiente.
+>
+>Esta herramienta presenta algunas de las tecnicas mas conocidas, sinembargo puede que existan otras
+>que mejor se apliquen a tu caso/entorno.
 
 
 >To answer the questions in the script make sure you use the specified format since it is
