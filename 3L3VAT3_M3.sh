@@ -20,15 +20,6 @@
 #
 #El autor no se hace responsable de cualquier daño causado. Si estos terminos no son acceptables
 #para ti, entonces NO UTILICES ESTA HERRAMIENTA.
-#
-
-
-
-
-
-
-
-
 
 # Creacion del banner
  echo "*************************************************"
